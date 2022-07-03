@@ -1,5 +1,5 @@
-# Exercise 2 : Faulty Calculator
-
+# Faulty Calculator
+# 3 Wrong Ans
 # Some Default Ans (45*3=555, 56+9=77, 56/6=4)
 
 print("What you want to do\n Operators --> +, -, *, /")
